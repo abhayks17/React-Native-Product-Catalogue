@@ -10,12 +10,11 @@ This is a Demo Product Catalogue app with:
 - Cart with add and reduce product count and sub-total calculator
 
 ## 📸 Screenshots
+### Product Details
+![Product Detils](./screenshots/product_detail1.jpg)
 
 ### Product List
-![Product List](./screenshots/product_detail.jpg)
-
-### Product Details
-![Product Details](./screenshots/product-detail1.jpg)
+![Product List](./screenshots/product_detail1.jpg)
 
 ### Ap video
 ![Video](./screenshots/video.mp4)
