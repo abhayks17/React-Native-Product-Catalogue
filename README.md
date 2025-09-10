@@ -14,7 +14,7 @@ This is a Demo Product Catalogue app with:
 ![Product Detils](./screenshots/product_detail1.jpg)
 
 ### Product List
-![Product List](./screenshots/product_detail1.jpg)
+![Product List](./screenshots/product_detail.jpg)
 
-### Ap video
+### App video
 ![Video](./screenshots/video.mp4)
